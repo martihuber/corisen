@@ -1,8 +1,8 @@
 # <img src="corisen.png" alt="Corisen" height="40px">
 
+# Corisen
 
-
-**Corisen is a ERC20 token launched on the BSC network. It is designed to be a replacement of indexed funds.
+Corisen is a ERC20 token launched on the BSC network. It is designed to be a replacement of indexed funds.
 
  * Implementations of standards like [ERC20](https://docs.openzeppelin.com/contracts/erc20) and [ERC721](https://docs.openzeppelin.com/contracts/erc721).
  * Flexible [role-based permissioning](https://docs.openzeppelin.com/contracts/access-control) scheme.
