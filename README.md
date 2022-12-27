@@ -1,11 +1,8 @@
-# <img src="logo.svg" alt="OpenZeppelin" height="40px">
+# <img src="corisen.png" alt="Corisen" height="40px">
 
-[![Docs](https://img.shields.io/badge/docs-%F0%9F%93%84-blue)](https://docs.openzeppelin.com/contracts)
-[![NPM Package](https://img.shields.io/npm/v/@openzeppelin/contracts.svg)](https://www.npmjs.org/package/@openzeppelin/contracts)
-[![Coverage Status](https://codecov.io/gh/OpenZeppelin/openzeppelin-contracts/graph/badge.svg)](https://codecov.io/gh/OpenZeppelin/openzeppelin-contracts)
-[![gitpoap badge](https://public-api.gitpoap.io/v1/repo/OpenZeppelin/openzeppelin-contracts/badge)](https://www.gitpoap.io/gh/OpenZeppelin/openzeppelin-contracts)
 
-**A library for secure smart contract development.** Build on a solid foundation of community-vetted code.
+
+**Corisen is a ERC20 token launched on the BSC network. It is designed to be a replacement of indexed funds.
 
  * Implementations of standards like [ERC20](https://docs.openzeppelin.com/contracts/erc20) and [ERC721](https://docs.openzeppelin.com/contracts/erc721).
  * Flexible [role-based permissioning](https://docs.openzeppelin.com/contracts/access-control) scheme.
